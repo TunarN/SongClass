@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\SongClass\SongClass\bin\Debug\netcoreapp3.1\SongClass.exe
+C:\Users\lenovo\source\repos\SongClass\SongClass\bin\Debug\netcoreapp3.1\SongClass.deps.json
+C:\Users\lenovo\source\repos\SongClass\SongClass\bin\Debug\netcoreapp3.1\SongClass.runtimeconfig.json
+C:\Users\lenovo\source\repos\SongClass\SongClass\bin\Debug\netcoreapp3.1\SongClass.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\SongClass\SongClass\bin\Debug\netcoreapp3.1\SongClass.dll
+C:\Users\lenovo\source\repos\SongClass\SongClass\bin\Debug\netcoreapp3.1\SongClass.pdb
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.dll
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.pdb
+C:\Users\lenovo\source\repos\SongClass\SongClass\obj\Debug\netcoreapp3.1\SongClass.genruntimeconfig.cache
